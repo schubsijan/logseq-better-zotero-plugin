@@ -32,7 +32,7 @@ No API or internet connection is required, making it truly local!
 
 Examples for further Title-Template: {{date}}-{{title}}, {% if authors[0].firstName and authors[0].lastName %}{{authors[0].firstName}} {{authors[0].lastName}}{% elif authors[0].name %}{{authors[0].name}}{% endif %}-{{title}}  → look at [Nunjucks Docs](https://mozilla.github.io/nunjucks/templating.html) for full explanation
 
-Example for as simple Page-Template:
+Example for as simple Page-Template: (ignore the unsoported-makro-erros from Logseq, only the string of the Template-Block is important not it's rendering)
 ![pageTemplate](https://github.com/arcusamicus/logseq-better-zotero-plugin/assets/90210405/a18c169c-b8e3-4bdd-8e2e-557664ffb546)
 
 The default Page-Template is the following:
