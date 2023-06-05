@@ -4,6 +4,7 @@
 
 This is a plugin for [Logseq](https://logseq.com/) that allows you to search your literature in [Zotero](https://www.zotero.org/) and creates customizable literature pages.
 These use the [Nunjucks syntax](https://mozilla.github.io/nunjucks/templating.html) and allow for maximum customization on your side.
+
 No API or internet connection is required, making it truly local!
 
 * import your literature from Zotero as you need it
@@ -76,4 +77,5 @@ Tip: copy this default Page-Template to a jinja2-codeblock in Logseq and simply 
 ## Acknowledgements
 
 **inspired by:** the default Zotero-integration in Logseq, [logseq-logtero-plugin](https://github.com/vyleung/logseq-logtero-plugin)
+
 **used tools:** [svelte](https://github.com/sveltejs/svelte), [@logseq/libs](https://www.npmjs.com/package/@logseq/libs), [fuse.js](https://github.com/krisk/Fuse), [nunjucks](https://github.com/mozilla/nunjucks)
