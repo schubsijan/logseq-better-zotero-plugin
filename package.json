@@ -4,6 +4,7 @@
   "description": "Fully local and improved Zotero-Itegration for Logseq",
   "main": "public/index.html",
   "author": "Schubsi",
+  "repo": "schubsijan/logseq-better-zotero-plugin",
   "targets": {
     "main": false
   },
