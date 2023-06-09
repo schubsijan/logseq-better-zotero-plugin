@@ -21,7 +21,7 @@ No API or internet connection is required, making it truly local!
 2. enable Developer mode in Logseq
 ![developerMode](https://github.com/arcusamicus/logseq-better-zotero-plugin/assets/90210405/08287d22-150a-4338-bde8-4da5d0d14b15)
 3. in the Plugins window in Logseq click on `Load unpacked plugin` and select the downloaded repository
-4. export your Zotero library in BetterBibTeX JSON format (with keep updated enabled)
+4. export your Zotero library in BetterBibTeX JSON format (with keep updated enabled); you need the [Better BibTeX Extension](https://github.com/retorquere/zotero-better-bibtex/releases) for Zotero
 ![zoteroSetup](https://github.com/arcusamicus/logseq-better-zotero-plugin/assets/90210405/c71b93dc-765e-4c4a-86b4-ab17e5a07fba)
 5. copy the full path to this BetterBibTeX JSON file into the plugin settings
 6. use the Slash-Command `/better Zotero` in a block in Logseq and start searching for literature
